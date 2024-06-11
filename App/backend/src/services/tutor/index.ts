@@ -1,0 +1,9 @@
+export { getTutors } from './getTutors';
+export { getTutorsBySubject } from './getTutorsBySubject';
+export { createTutorProfile } from './createTutorProfile';
+export { addSubjectToTutor } from './addSubjectToTutor';
+export { deleteTutorProfile } from './deleteTutorProfile';
+export { deleteSubjectFromTutor } from './deleteSubjectFromTutor';
+export { updateTutorProfile } from './updateTutorProfile';
+export { getTutorSubjects } from './getTutorSbujects';
+export { getTutorById } from './getTutorById';
